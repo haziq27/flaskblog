@@ -1,0 +1,4 @@
+*__psycache__
+.vscode
+*DS_Store
+.env
